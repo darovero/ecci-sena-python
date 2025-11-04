@@ -29,12 +29,7 @@ Cada unidad tiene su propia carpeta con:
 
 Ejemplo:
 
-/Unidad1_Fundamentos/
-├── docs/
-└── Unidad1-Caso_Practico.pdf
-├── scripts/ 
-├── saludos.py
-└── componentes.py
+/Unidad1_Fundamentos/ ├── docs/ │ └── Unidad1-Caso_Practico.pdf ├── scripts/ │ ├── saludos.py │ └── componentes.py
 
 ---
 
