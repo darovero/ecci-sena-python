@@ -1,0 +1,61 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales por unidad
+venv_u1/
+venv_u2/
+venv_u3/
+venv_u4/
+venv_u5/
+venv_u6/
+venv_u7/
+
+# Entornos virtuales genéricos
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos de sistema (Windows)
+Thumbs.db
+desktop.ini
+
+# Archivos de logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de paquetes y distribución
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Archivos de pruebas
+htmlcov/
+.tox/
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.pytest_cache/
+
+# Archivos de control de versiones internos
+*.orig
